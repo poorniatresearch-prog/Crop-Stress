@@ -1,0 +1,5 @@
+aquacrop>=3.0
+numpy
+pandas
+scipy
+matplotlib
